@@ -1,0 +1,6 @@
+{
+  "name": "Toán 11 Master - Sổ Tay Học Tập & Bí Kíp Đột Phá Điểm 9+",
+  "description": "Website chia sẻ kinh nghiệm, sổ tay công thức sơ đồ tư duy, kho tài nguyên và góc luyện tập tương tác môn Toán lớp 11 theo Chương trình GDPT 2018.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
